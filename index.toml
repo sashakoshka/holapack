@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "fc273072f132ab4beba18bdee72e80cce7f82775d91219b39bbff41f9ac5158c"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "4e444f5594a0be3fd2ae25c75af6cfa26dcaf21420778f2a2bf6a79d79d8010b"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
@@ -62,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
 metafile = true
 
 [[files]]
@@ -187,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
