@@ -254,5 +254,9 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "ecade0b6124b6d568fea80a35dc311c3e2eb33b7c34f59497645096c5fd86438"
+
+[[files]]
 file = "resourcepacks/ccc.zip"
 hash = "01bbe399bf073a5d1cb099da0e199f2be07cbb56bcc0ae05c39969e8b3e2929b"
