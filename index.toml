@@ -69,6 +69,11 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/datapackportals.pw.toml"
+hash = "fec5b46a8549426a5243f65ff16fa9b144cbcb457dc449c3ff57954290801a09"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
