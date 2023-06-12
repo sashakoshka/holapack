@@ -6,7 +6,7 @@ hash = "fc273072f132ab4beba18bdee72e80cce7f82775d91219b39bbff41f9ac5158c"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "4e444f5594a0be3fd2ae25c75af6cfa26dcaf21420778f2a2bf6a79d79d8010b"
+hash = "e11bae82f3ab0c315fd8b1e60670e615c057d10ffbe3ce0159989625ebacb349"
 
 [[files]]
 file = "mods/adorn.pw.toml"

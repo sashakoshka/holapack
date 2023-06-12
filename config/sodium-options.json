@@ -1,6 +1,6 @@
 {
   "performance": {
-    "always_defer_chunk_updates": true,
+    "always_defer_chunk_updates": true
   },
   "notifications": {
     "hide_donation_button": true
