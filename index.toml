@@ -9,6 +9,10 @@ file = "config/sodium-options.json"
 hash = "e11bae82f3ab0c315fd8b1e60670e615c057d10ffbe3ce0159989625ebacb349"
 
 [[files]]
+file = "kubejs/server_scripts/ccc-integration-recipes.js"
+hash = "06bff97c07f68d5616f5fb2a9bb848c474a5040e41e55c4a99a09e4dffa216d1"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
