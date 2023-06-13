@@ -1,3 +1,5 @@
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","file/ccc.zip"]
 autoJump:false
 tutorialStep:none
+
+key_key.fabrictailor.toggle_skin_gui:key.keyboard.f4
