@@ -222,11 +222,6 @@ hash = "9caa3792ed07d03aed704f1d85a67c96bd80cdf1625671f2617448a370b8e4ed"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "e3387f6f4a066004b25bfde659986dff31b9bb1197f3eb35b23726bf8d62154b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
@@ -268,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ecade0b6124b6d568fea80a35dc311c3e2eb33b7c34f59497645096c5fd86438"
+hash = "f12753f02a9d2784a02262576d090c09821b822d5e64f589d17878d3d495ab2d"
 
 [[files]]
 file = "resourcepacks/ccc.zip"
