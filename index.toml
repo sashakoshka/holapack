@@ -266,5 +266,10 @@ file = "options.txt"
 hash = "f12753f02a9d2784a02262576d090c09821b822d5e64f589d17878d3d495ab2d"
 
 [[files]]
+file = "resourcepacks/ccc.pw.toml"
+hash = "cbbf1c1995116cd6958605f981ffd3d464f64cac40ac35a9d128dcba91f86838"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ccc.zip"
 hash = "01bbe399bf073a5d1cb099da0e199f2be07cbb56bcc0ae05c39969e8b3e2929b"
