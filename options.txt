@@ -1,1 +1,3 @@
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","file/ccc.zip"]
+autoJump:false
+tutorialStep:none
