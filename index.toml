@@ -106,6 +106,11 @@ hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
@@ -148,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/tbh-mod.pw.toml"
 hash = "afc8a757e424b6933b1a1adcdc6675a5b1fdd7abadbbe66c62d8952baf456a7c"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "9bf22e5ccefaab2977914c67822210db3167885528bf233c2c6cfec9732a6e08"
 metafile = true
 
 [[files]]
