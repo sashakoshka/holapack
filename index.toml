@@ -156,6 +156,21 @@ hash = "a16799bfb18ad3723165408cc7ca841091497ffd2a4ea31da365017f67846bbf"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "ac60b89b4b81c788d6c7ee104ddd0d6e5bbf67ac3b8eda96554213ae498ef87f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "451562e9dbe29275fb6bbda2fcf0b7360fd3b765f23b4883818b426f2a3d87e6"
 metafile = true
