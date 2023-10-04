@@ -3,11 +3,11 @@ filename = "ccc.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KxcF22pG/versions/UAVBC0Pq/ccc.zip"
+url = "https://cdn.modrinth.com/data/KxcF22pG/versions/KeE4UBNo/ccc.zip"
 hash-format = "sha1"
-hash = "4eb078296c8c02cf2fcc7963402724ecb8e72a4e"
+hash = "3bdd748209b72210aead94fae1d96b0dd552ef03"
 
 [update]
 [update.modrinth]
 mod-id = "KxcF22pG"
-version = "UAVBC0Pq"
+version = "KeE4UBNo"
