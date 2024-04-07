@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7f947d610bfa95c7158ca148cd8e4c1decded4d0cbba914e9afed58bd6f8490c"
+hash = "e640f57b740b7c26ab3249d9c3b6cbb8f2dde4ca6d83766160d8c96320716c68"
 
 [[files]]
 file = "resourcepacks/ccc.pw.toml"

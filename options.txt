@@ -81,6 +81,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_key.nicoislost.zoom1:key.keyboard.c
+key_key.nicoislost.zoom2:key.keyboard.unknown
+key_key.nicoislost.zoom3:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
