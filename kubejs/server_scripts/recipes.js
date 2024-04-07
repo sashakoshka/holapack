@@ -119,9 +119,9 @@ ServerEvents.recipes(event => {
 			"!": CR("electron_tube"),
 			"O": { tag: "c:glass_panes" },
 		})
-	event.recipes.create.pressing (
-		CC("pocket_computer_advanced"),
-		CC("computer_advanced"))
+	// event.recipes.create.pressing (
+		// CC("pocket_computer_advanced"),
+		// CC("computer_advanced"))
 	event.shaped (
 		CC("pocket_computer_advanced"), // upgrade from andesite
 		[
@@ -135,9 +135,9 @@ ServerEvents.recipes(event => {
 			"C": CR("brass_casing"),
 			"N": CC("pocket_computer_normal")
 		})
-	event.recipes.create.pressing (
-		CC("pocket_computer_normal"),
-		CC("computer_normal"))
+	// event.recipes.create.pressing (
+		// CC("pocket_computer_normal"),
+		// CC("computer_normal"))
 	event.shaped (
 		CC("printer"),
 		[
@@ -234,4 +234,44 @@ ServerEvents.recipes(event => {
 			"!": CR("electron_tube"),
 			"C": CR("andesite_casing"),
 		})
+	event.shapeless (
+		"consistency_plus:cobbled_netherrack",
+		[
+			MC("cobblestone"),
+			MC("rotten_flesh")
+		])
+	event.shapeless (
+		"consistency_plus:cobbled_netherrack",
+		[
+			MC("cobblestone"),
+			MC("rotten_flesh")
+		])
+	// event.shapeless (
+		// "tbhmod:tbh_creature_spawn_egg",
+		// [
+			// MC("egg"),
+			// CR("railway_casing"),
+			// "tbhmod:tbh_meat"
+		// ])
+	event.blasting (
+		MC("lapis_lazuli"),
+		MC("amethyst_shard"))
+	// event.recipes.create.haunting (
+		// "tbhmod:tbh_meat",
+		// MC("porkchop"))
+	/*event.recipes.create.mechanicalCrafting(MC("elytra"), [
+		"--0--",
+		"##@##",
+		"##*##",
+		"#   #",
+	], {	
+		"#": MC("phantom_membrane"),
+		"-": CR("golden_sheet"),
+		"@": CR("precision_mechanism"),
+		"*": CR("cogwheel"),
+		"0": "consistency_plus:purpur_brick"
+	})*/
+	// event.recipes.create.milling (
+		// CR("experience_nugget"),
+		// MC("sculk"))
 })

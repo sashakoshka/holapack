@@ -1,3 +1,0 @@
-# Fixes issue with Adorn. For some reason the mod compatibility setting for
-# adorn does not work and we need to do this as well.
-useBlockStateCulling = false
