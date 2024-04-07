@@ -1,0 +1,13 @@
+name = "ComputerCraft Create"
+filename = "ccc.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KxcF22pG/versions/V93XLssH/ccc.zip"
+hash-format = "sha1"
+hash = "267d83c0eede555a6fb6cde61dea168cf1a9b215"
+
+[update]
+[update.modrinth]
+mod-id = "KxcF22pG"
+version = "V93XLssH"

@@ -244,5 +244,10 @@ file = "options.txt"
 hash = "7f947d610bfa95c7158ca148cd8e4c1decded4d0cbba914e9afed58bd6f8490c"
 
 [[files]]
+file = "resourcepacks/ccc.pw.toml"
+hash = "7e6a66a6743937768882c98ac11d66b0eccbe56780527089faddf3e4e44b90a9"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "338a1fb02c8f73bf0af302d3c7a51c2b0e7bb34e1c9a76e6625b4ca7586a22f1"
