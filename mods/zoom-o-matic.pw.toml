@@ -1,0 +1,13 @@
+name = "Zoom-o-Matic"
+filename = "zoom-o-matic-1.1.0-1.20-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2GzPMA8i/versions/iLc77yqh/zoom-o-matic-1.1.0-1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "4e1d9f69dd4fba41ad7391cc5598140bba4b5411"
+
+[update]
+[update.modrinth]
+mod-id = "2GzPMA8i"
+version = "iLc77yqh"
