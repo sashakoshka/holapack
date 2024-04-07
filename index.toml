@@ -3,3 +3,27 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "a329ff2ef6ec1caa85c26a076cf3b47cda7552c3f2dc0e8c7a2d05fb5ba8d80f"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "a329ff2ef6ec1caa85c26a076cf3b47cda7552c3f2dc0e8c7a2d05fb5ba8d80f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "ae17edd0bf1a89337453ae7fb2296e2428840fa89e386ee898b277591d100a54"
+
+[[files]]
+file = "options.txt"
+hash = "7f947d610bfa95c7158ca148cd8e4c1decded4d0cbba914e9afed58bd6f8490c"
+
+[[files]]
+file = "servers.dat"
+hash = "338a1fb02c8f73bf0af302d3c7a51c2b0e7bb34e1c9a76e6625b4ca7586a22f1"
