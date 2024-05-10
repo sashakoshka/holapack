@@ -1,12 +1,12 @@
 name = "Holapack"
 author = "Sasha Koshka"
-version = "2.0.2"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0cf495293148206abee6fe7a559d45e6bcde7aebb9d6ea7f83382ce66b45761a"
+hash = "714756bc530ca420dc1247c146f9d3d79a712ea02dcfdee354c31d7b1de3432e"
 
 [versions]
 fabric = "0.15.7"
