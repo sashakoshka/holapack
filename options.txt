@@ -1,7 +1,6 @@
 version:3465
 autoJump:false
 resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","file/ccc.zip"]
-incompatibleResourcePacks:["file/ccc.zip"]
 tutorialStep:none
 skipMultiplayerWarning:true
 onlyShowSecureChat:false
