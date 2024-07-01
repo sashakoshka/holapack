@@ -22,7 +22,7 @@ hash = "a329ff2ef6ec1caa85c26a076cf3b47cda7552c3f2dc0e8c7a2d05fb5ba8d80f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "ae17edd0bf1a89337453ae7fb2296e2428840fa89e386ee898b277591d100a54"
+hash = "d686c29a914d2ea6dfd3dd2d5910b8bec457857936028470d8e7878def1c3b6f"
 
 [[files]]
 file = "mods/adorn.pw.toml"

@@ -274,4 +274,10 @@ ServerEvents.recipes(event => {
 	// event.recipes.create.milling (
 		// CR("experience_nugget"),
 		// MC("sculk"))
+	event.shapeless (
+		CR("asurine"),
+		[
+			MC("cobblestone"),
+			MC("blue_dye")
+		])
 })
