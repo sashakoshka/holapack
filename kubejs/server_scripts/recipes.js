@@ -122,6 +122,12 @@ ServerEvents.recipes(event => {
 	// event.recipes.create.pressing (
 		// CC("pocket_computer_advanced"),
 		// CC("computer_advanced"))
+	event.shapeless (
+		CC("pocket_computer_advanced"),
+		[
+			CC("computer_advanced"),
+			MC("book")
+		])
 	event.shaped (
 		CC("pocket_computer_advanced"), // upgrade from andesite
 		[
@@ -138,6 +144,12 @@ ServerEvents.recipes(event => {
 	// event.recipes.create.pressing (
 		// CC("pocket_computer_normal"),
 		// CC("computer_normal"))
+	event.shapeless (
+		CC("pocket_computer_normal"),
+		[
+			CC("computer_normal"),
+			MC("book")
+		])
 	event.shaped (
 		CC("printer"),
 		[
