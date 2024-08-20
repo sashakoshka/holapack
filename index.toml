@@ -65,6 +65,11 @@ hash = "43955855758931bdd6be5b736278141a700265181cecf7ad9d8ae196dad89c5c"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
